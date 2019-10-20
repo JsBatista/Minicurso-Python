@@ -4,7 +4,7 @@ Bem vindos ao repositório do Minicurso de Python.
 
 Aqui vocês irão encontrar todas as soluções das atividades propostas no Minicurso.
 
-Vale ressaltar que é recomendado sempre tentar fazer a atividade, consultando o slide e se necessário, a documentação do python. 
+Vale ressaltar que é recomendado sempre tentar fazer a atividade, consultando o slide e, se necessário, a documentação do Python. 
 
 Tente ao máximo usar as resoluções para conferir sua resposta, explorar outros modos de resolver a mesma atividade ou buscar um guia quando estiver completamente perdido.
 
