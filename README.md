@@ -1,4 +1,4 @@
-# Minicurso-Python-Seel
+# Minicurso de Python - Pré Include 2020
 
 Bem vindos ao repositório do Minicurso de Python.
 
