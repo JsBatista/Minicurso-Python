@@ -3,6 +3,7 @@
 a = int(input("Digite A: "))
 b = int(input("Digite B: "))
 c = int(input("Digite C: "))
+
 print("A ^ B:",bool(a and b))
 print("A ^ C:",bool(a and c))
 print("B v C:",bool(b or c))
