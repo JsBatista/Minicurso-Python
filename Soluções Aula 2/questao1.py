@@ -3,7 +3,11 @@ b = int(input("Digite o coeficiente B: "))
 c = int(input("Digite o coeficiente C: "))
 
 if( a == 0):
-  print("A raiz é: ", (-c) / b)
+  if(b == 0):
+    print("Impossível resolver")
+  else:
+    print("A raiz é: ", (-c) / b)
+
 else:
   delta = (b**2) -(4*a*c)
 
