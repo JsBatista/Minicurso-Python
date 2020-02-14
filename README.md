@@ -18,3 +18,5 @@ Serão postadas sempre as atividades das aulas já ministradas. Se alguma ativid
 Aula 1: https://slides.com/batistaceos/deck-7#/
 
 Aula 2: https://slides.com/batistaceos/deck-7-8#/
+
+Aula 3: https://slides.com/batistaceos/deck-7-9/
