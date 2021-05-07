@@ -1,7 +1,9 @@
 ## Atividade 5
 
 print("Dados: Data de hoje: ")
-dh = int(input("Digite o dia do mês: "))
+dh = input("Digite o dia do mês: ")
+dh = int(dh)
+
 
 mh = int(input("Digite o mês: "))
 
@@ -15,6 +17,6 @@ mf = int(input("Digite o mês: "))
 
 af = int(input("Digite o ano: "))
 
-diasQueFaltam = ((af - ah)*365) + ((mf - mh)*20) + (df - dh)
+diasQueFaltam = ((af - ah)*360) + ((mf - mh)*30) + (df - dh)
 
 print("Faltam", diasQueFaltam, "dias para essa data!")
